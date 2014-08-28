@@ -1,0 +1,19 @@
+{
+  "name": "www",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start" : "sh start.sh",
+    "stop" : "sh stop.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "*",
+    "coffee-script": "*",
+    "console-ten": "*",
+    "express": "*",
+    "react-tools": "*",
+    "stylus": "*"
+  }
+}

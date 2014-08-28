@@ -1,0 +1,20 @@
+{
+  "name": "www",
+  "version": "0.0.0",
+  "authors": [
+    "milky <milky@archmini>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "page.js": "*",
+    "react": "*"
+  }
+}
